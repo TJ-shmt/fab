@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fab/static/css/main.ef687fc6.chunk.css",
-    "main.js": "/fab/static/js/main.76ce93de.chunk.js",
-    "main.js.map": "/fab/static/js/main.76ce93de.chunk.js.map",
+    "main.css": "/fab/static/css/main.985c4c4f.chunk.css",
+    "main.js": "/fab/static/js/main.3016f107.chunk.js",
+    "main.js.map": "/fab/static/js/main.3016f107.chunk.js.map",
     "runtime-main.js": "/fab/static/js/runtime-main.5e0f1589.js",
     "runtime-main.js.map": "/fab/static/js/runtime-main.5e0f1589.js.map",
     "static/js/2.c1aafa07.chunk.js": "/fab/static/js/2.c1aafa07.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5976e41f.chunk.js": "/fab/static/js/3.5976e41f.chunk.js",
     "static/js/3.5976e41f.chunk.js.map": "/fab/static/js/3.5976e41f.chunk.js.map",
     "index.html": "/fab/index.html",
-    "static/css/main.ef687fc6.chunk.css.map": "/fab/static/css/main.ef687fc6.chunk.css.map",
+    "static/css/main.985c4c4f.chunk.css.map": "/fab/static/css/main.985c4c4f.chunk.css.map",
     "static/js/2.c1aafa07.chunk.js.LICENSE.txt": "/fab/static/js/2.c1aafa07.chunk.js.LICENSE.txt",
     "static/media/CT_Bag.d586190d.png": "/fab/static/media/CT_Bag.d586190d.png",
     "static/media/CT_Bag_Back.446b0db8.svg": "/fab/static/media/CT_Bag_Back.446b0db8.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.5e0f1589.js",
     "static/js/2.c1aafa07.chunk.js",
-    "static/css/main.ef687fc6.chunk.css",
-    "static/js/main.76ce93de.chunk.js"
+    "static/css/main.985c4c4f.chunk.css",
+    "static/js/main.3016f107.chunk.js"
   ]
 }
