@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/fab/static/css/main.5fa771bc.chunk.css",
-    "main.js": "/fab/static/js/main.bd67f81b.chunk.js",
-    "main.js.map": "/fab/static/js/main.bd67f81b.chunk.js.map",
-    "runtime-main.js": "/fab/static/js/runtime-main.d91b7692.js",
-    "runtime-main.js.map": "/fab/static/js/runtime-main.d91b7692.js.map",
-    "static/js/2.61e0ee8b.chunk.js": "/fab/static/js/2.61e0ee8b.chunk.js",
-    "static/js/2.61e0ee8b.chunk.js.map": "/fab/static/js/2.61e0ee8b.chunk.js.map",
-    "static/js/3.efbd8cfa.chunk.js": "/fab/static/js/3.efbd8cfa.chunk.js",
-    "static/js/3.efbd8cfa.chunk.js.map": "/fab/static/js/3.efbd8cfa.chunk.js.map",
+    "main.css": "/fab/static/css/main.94db2ce1.chunk.css",
+    "main.js": "/fab/static/js/main.75ccfee9.chunk.js",
+    "main.js.map": "/fab/static/js/main.75ccfee9.chunk.js.map",
+    "runtime-main.js": "/fab/static/js/runtime-main.dc322645.js",
+    "runtime-main.js.map": "/fab/static/js/runtime-main.dc322645.js.map",
+    "static/js/2.4f8b2e90.chunk.js": "/fab/static/js/2.4f8b2e90.chunk.js",
+    "static/js/2.4f8b2e90.chunk.js.map": "/fab/static/js/2.4f8b2e90.chunk.js.map",
+    "static/js/3.74262fb4.chunk.js": "/fab/static/js/3.74262fb4.chunk.js",
+    "static/js/3.74262fb4.chunk.js.map": "/fab/static/js/3.74262fb4.chunk.js.map",
     "index.html": "/fab/index.html",
-    "static/css/main.5fa771bc.chunk.css.map": "/fab/static/css/main.5fa771bc.chunk.css.map",
-    "static/js/2.61e0ee8b.chunk.js.LICENSE.txt": "/fab/static/js/2.61e0ee8b.chunk.js.LICENSE.txt",
+    "static/css/main.94db2ce1.chunk.css.map": "/fab/static/css/main.94db2ce1.chunk.css.map",
+    "static/js/2.4f8b2e90.chunk.js.LICENSE.txt": "/fab/static/js/2.4f8b2e90.chunk.js.LICENSE.txt",
     "static/media/CT_Bag.d586190d.png": "/fab/static/media/CT_Bag.d586190d.png",
     "static/media/CT_Bag_Back.446b0db8.svg": "/fab/static/media/CT_Bag_Back.446b0db8.svg",
     "static/media/CT_Main.11dd0eb5.png": "/fab/static/media/CT_Main.11dd0eb5.png",
     "static/media/CT_Main.e8bfeadb.svg": "/fab/static/media/CT_Main.e8bfeadb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d91b7692.js",
-    "static/js/2.61e0ee8b.chunk.js",
-    "static/css/main.5fa771bc.chunk.css",
-    "static/js/main.bd67f81b.chunk.js"
+    "static/js/runtime-main.dc322645.js",
+    "static/js/2.4f8b2e90.chunk.js",
+    "static/css/main.94db2ce1.chunk.css",
+    "static/js/main.75ccfee9.chunk.js"
   ]
 }
