@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fab/static/css/main.99248969.chunk.css",
+    "main.css": "/fab/static/css/main.07ef832b.chunk.css",
     "main.js": "/fab/static/js/main.6b4512ea.chunk.js",
     "main.js.map": "/fab/static/js/main.6b4512ea.chunk.js.map",
     "runtime-main.js": "/fab/static/js/runtime-main.380b99b6.js",
@@ -10,7 +10,7 @@
     "static/js/3.b76ae8e0.chunk.js": "/fab/static/js/3.b76ae8e0.chunk.js",
     "static/js/3.b76ae8e0.chunk.js.map": "/fab/static/js/3.b76ae8e0.chunk.js.map",
     "index.html": "/fab/index.html",
-    "static/css/main.99248969.chunk.css.map": "/fab/static/css/main.99248969.chunk.css.map",
+    "static/css/main.07ef832b.chunk.css.map": "/fab/static/css/main.07ef832b.chunk.css.map",
     "static/js/2.fe76f93b.chunk.js.LICENSE.txt": "/fab/static/js/2.fe76f93b.chunk.js.LICENSE.txt",
     "static/media/CT_Bag.d586190d.png": "/fab/static/media/CT_Bag.d586190d.png",
     "static/media/CT_Bag_Back.4a1039d2.svg": "/fab/static/media/CT_Bag_Back.4a1039d2.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.380b99b6.js",
     "static/js/2.fe76f93b.chunk.js",
-    "static/css/main.99248969.chunk.css",
+    "static/css/main.07ef832b.chunk.css",
     "static/js/main.6b4512ea.chunk.js"
   ]
 }
